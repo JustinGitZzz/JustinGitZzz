@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [Brief Introduction]
 
-I a college junior majoring in Computer and Information Security with a profound interest in cybersecurity and solving real world issues.
+I am a college upper-junior majoring in Computer Science and Information Security with a profound interest in cybersecurity and solving real-world issues.
 
 ## Objective
 [Provide Objective]
