@@ -17,29 +17,23 @@ Here are some ideas to get you started:
 # Hello, I'm Justin
 <a href="www.linkedin.com/in/justin-zheng-29a85b225"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 I am a college upper-junior majoring in Computer Science and Information Security with a profound interest in cybersecurity and solving real-world issues.
 
 ## Objective
-[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cloud Computing                               | <a href="https://github.com/JustinGitZzz/aws-ec2">AWS EC2 Secure SSH and SFTP Server Configuration</a>|
+| Network and Security                          | <a href="https://github.com/JustinGitZzz/aws-ec2">AWS EC2 Secure SSH and SFTP Server Configuration</a>|
+| User and Access Management                    | <a href="https://github.com/JustinGitZzz/aws-ec2">AWS EC2 Secure SSH and SFTP Server Configuration</a>|
+| Directory Confinement                         | <a href="https://github.com/JustinGitZzz/aws-ec2">AWS EC2 Secure SSH and SFTP Server Configuration</a>|
+| Routing and Traffic Management                | <a href="https://github.com/JustinGitZzz/aws-ec2">AWS EC2 Secure SSH and SFTP Server Configuration</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
 
 ### Network
 <div>
@@ -62,7 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
 <div>
 <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -73,6 +66,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Test Project
+- AWS EC2 Secure SSH and SFTP Server Configuration
