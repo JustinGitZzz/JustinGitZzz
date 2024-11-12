@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # Hello, I'm Justin
 <a href="www.linkedin.com/in/justin-zheng-29a85b225"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a college upper-junior majoring in Computer Science and Information Security with a profound interest in cybersecurity and solving real-world issues.
+I am an upper-junior majoring in Computer Science and Information Security at CUNY John Jay College of Criminal Justice with a profound interest in cybersecurity and solving real-world issues.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as a computer science student has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
